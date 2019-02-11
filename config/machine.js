@@ -1,6 +1,6 @@
 exports.config = {
   piFig: {
-    appRepo: 'https://github.com/scimusmn/SteleLite-AppTemplate',
+    appRepo: 'https://github.com/scimusmn/RopeScope',
     autostart: true,
     gitWatch: true,
     preventSleep: true,
