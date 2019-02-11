@@ -1,0 +1,12 @@
+{
+  "author": "ajhg",
+  "license": "CC0-1.0",
+  "homepage": "http://re.trof.it",
+  "dependencies": {
+    "serialport": "7.0.2",
+    "ws": "^3.1.0",
+    "google-auth-library": "^1.2.1",
+    "googleapis": "^25.0.0",
+    "nodemailer": "^4.4.2"
+  }
+}
